@@ -1,0 +1,24 @@
+.theme-color{
+    background-color: black;
+    text-emphasis-color: red;
+}
+body{
+    background-color: black;
+}
+.ZONE{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #B8001F;
+}
+.product{
+    background-color: black;
+}
+.head{
+    color: #B8001F;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif 
+}
+.link{
+    color: #B8001F;
+}
+.button{
+    color: #B8001F;
+}
